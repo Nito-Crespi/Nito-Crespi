@@ -2,9 +2,8 @@
 
 Frontend & Backend dev — Java/Spring Boot + React. Código limpio con un buen mate a mi lado 🧉
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Nito-Crespi&show_icons=true&count_private=true&theme=radical" />
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nito-Crespi&hide=jupyter%20notebook&layout=compact&theme=radical" />
-<!-- <img align="left" width="47%" src="https://nito-crespi-github-stats.vercel.app/api/top-langs/?username=Nito-Crespi&layout=compact&theme=radical&langs_count=10&cache_seconds=7200" /> -->
+<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Nito-Crespi&show_icons=true&count_private=true&theme=radical" /> -->
+<!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nito-Crespi&hide=jupyter%20notebook&layout=compact&theme=radical" /> -->
 
 <br clear="both" />
 
