@@ -8,7 +8,7 @@ Frontend & Backend dev — Java/Spring Boot + React. Código limpio con un buen 
 
 ---
 
-### Backend — Core
+### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -24,7 +24,7 @@ Frontend & Backend dev — Java/Spring Boot + React. Código limpio con un buen 
 ![Mockito](https://img.shields.io/badge/Mockito-4B9E5F?style=for-the-badge)
 ![MapStruct](https://img.shields.io/badge/MapStruct-FF6A00?style=for-the-badge)
 
-### Frontend — Core
+### Frontend
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
