@@ -1,10 +1,12 @@
-### ¡Hola! Soy Nito 👋
-
-Frontend & Backend dev — Java/Spring Boot + React. Código limpio con un buen mate a mi lado 🧉
-
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Nito-Crespi&show_icons=true&count_private=true&theme=radical" /> -->
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nito-Crespi&hide=jupyter%20notebook&layout=compact&theme=radical" /> -->
 <!-- <br clear="both" /> -->
+
+### ¡Hi there! I'm Nito 👋
+
+> Software developer made by 60% backend and 40% frontend. 🧉
+
+I'm **Álvaro Crespi Liut** (aka Nito), a **software developer since 2021**. I took my first steps as a `backend developer`, and nowadays I'm also a `frontend developer`.
 
 ---
 
@@ -33,10 +35,10 @@ Frontend & Backend dev — Java/Spring Boot + React. Código limpio con un buen 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ---
-![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge&logo=zustand&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
@@ -48,16 +50,16 @@ Frontend & Backend dev — Java/Spring Boot + React. Código limpio con un buen 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white)
 
 ### Others
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-000000?style=for-the-badge&logo=keycloak&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
@@ -65,11 +67,4 @@ Frontend & Backend dev — Java/Spring Boot + React. Código limpio con un buen 
 
 ---
 
-#### Un poco de lo que hago
-- 🧱 **Arquitectura & Backend**: Spring Boot + Spring Cloud, JPA/Hibernate, OpenAPI-first, módulos con DTOs/MapStruct y patrones SOLID.
-- ⚛️ **Frontend**: React 18 & Next.js/Vite con TypeScript, UI con Ant Design + Tailwind, estado/datos con React Query + Zustand, formularios con React Hook Form y animaciones con Framer Motion.
-- 🧪 **Calidad**: Tests unitarios e integración — JUnit 5 + Mockito (BE) y Jest (FE) — para cambios seguros y refactors tranquilos.
-- 🗄️ **Datos**: PostgreSQL, MySQL/MariaDB, Redis y Cassandra según el caso de uso (OLTP, cache, wide-column).
-- 📈 **Observabilidad & DevOps**: Trazas/métricas con OpenTelemetry y Prometheus; CI/CD con GitHub Actions; contenedores con Docker y despliegues en Vercel/Railway/Render.
-
-> Si te interesan mis proyectos, ¡pasá y dejá una ⭐!
+> If you’re interested in my projects, feel free to stop by and leave a ⭐!
