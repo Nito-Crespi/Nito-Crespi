@@ -85,7 +85,7 @@ I care about agile ways of working, good communication, and writing code that th
 
 ### 📫 Let's connect
 
-- 💼 [LinkedIn — Alvaro Crespi Liut]([https://www.linkedin.com/in/alvaro-crespi-liut/](https://www.linkedin.com/in/nito-crespi/))
+- 💼 [LinkedIn — Alvaro Crespi Liut](https://www.linkedin.com/in/nito-crespi/)
 - 🌐 [Portfolio — Alvaro Crespi Liut](https://nito-crespi.github.io/portfolio/)
 - ✉️ **AlvaroCrespiLiut@gmail.com**
 - 🌎 Santa Fe, Argentina
